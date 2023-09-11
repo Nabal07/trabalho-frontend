@@ -19,7 +19,7 @@ html {
     font-family: 'Lato', sans-serif;
 }
 
-body {
+.body-principal {
     background: linear-gradient(rgba(17, 17, 17, 0.8), rgba(20, 20, 20, 1)), url(/img/img5.jpg);
     background-position: center center;
     background-size: cover;
@@ -156,9 +156,4 @@ main {
 
 .btns button:hover:before {
     width: 100%;
-}
-
-#home
-{
-    background-color: brown;
 }
